@@ -1,6 +1,7 @@
 # music_player
 
 Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API
+
 https://anamika-chauhan.github.io/music_player/
 
 Project Specifications
