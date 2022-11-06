@@ -20,11 +20,10 @@ const songs = [
   "Rockabye",
   "summer",
   "ukulele",
-  "Unstoppable",
 ];
 
 // Keep track of song
-let songIndex = 5;
+let songIndex = 3;
 
 // Initially load song details into DOM
 loadSong(songs[songIndex]);
