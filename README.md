@@ -4,12 +4,9 @@ Create beautiful UI to play music stored in the "music folder" using the HTML5 a
 
 https://anamika-chauhan.github.io/music_player/
 
-Project Specifications
+# Project Specifications
 
-Create UI for music player including spinning image and song detail popup
-
-Add play and pause functionality
-
-Switch songs
-
-Progress bar
+-> Create UI for music player including spinning image and song detail popup
+-> Add play and pause functionality
+-> Switch songs
+-> Progress bar
